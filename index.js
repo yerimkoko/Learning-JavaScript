@@ -1,5 +1,6 @@
 const obj = {};
-obj.yellow = "yellow"; // obj에 yellow 프로퍼티 추가..
+obj.yellow = "yellow"; // obj에 yellow 프로퍼티(객체의 콘텐츠)추가...
+
 
 
 
